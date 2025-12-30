@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ara.soft\\Source\\Repos\\GitProjectSample\\GitProject\\GitProject\\GitProject.csproj": {}
+    "C:\\Users\\Ara.soft\\source\\repos\\GitProjectSample\\GitProject\\GitProject\\GitProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ara.soft\\Source\\Repos\\GitProjectSample\\GitProject\\GitProject\\GitProject.csproj": {
+    "C:\\Users\\Ara.soft\\source\\repos\\GitProjectSample\\GitProject\\GitProject\\GitProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ara.soft\\Source\\Repos\\GitProjectSample\\GitProject\\GitProject\\GitProject.csproj",
+        "projectUniqueName": "C:\\Users\\Ara.soft\\source\\repos\\GitProjectSample\\GitProject\\GitProject\\GitProject.csproj",
         "projectName": "GitProject",
-        "projectPath": "C:\\Users\\Ara.soft\\Source\\Repos\\GitProjectSample\\GitProject\\GitProject\\GitProject.csproj",
+        "projectPath": "C:\\Users\\Ara.soft\\source\\repos\\GitProjectSample\\GitProject\\GitProject\\GitProject.csproj",
         "packagesPath": "C:\\Users\\Ara.soft\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Ara.soft\\source\\repos\\GitProjectSample\\GitProject\\GitProject\\obj\\",
         "projectStyle": "PackageReference",
@@ -49,6 +49,32 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.35, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.35, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.35, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.35, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

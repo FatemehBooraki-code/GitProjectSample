@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Ara.soft\\source\\repos\\GitProjectSample\\GitProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1C6CCE-36FD-48C5-A898-08C2640701E7}|GitProject\\GitProject.csproj|c:\\users\\ara.soft\\source\\repos\\gitprojectsample\\gitproject\\gitproject\\migrations\\20251230083448_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D1C6CCE-36FD-48C5-A898-08C2640701E7}|GitProject\\GitProject.csproj|solutionrelative:gitproject\\migrations\\20251230083448_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1C6CCE-36FD-48C5-A898-08C2640701E7}|GitProject\\GitProject.csproj|c:\\users\\ara.soft\\source\\repos\\gitprojectsample\\gitproject\\gitproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D1C6CCE-36FD-48C5-A898-08C2640701E7}|GitProject\\GitProject.csproj|solutionrelative:gitproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1C6CCE-36FD-48C5-A898-08C2640701E7}|GitProject\\GitProject.csproj|c:\\users\\ara.soft\\source\\repos\\gitprojectsample\\gitproject\\gitproject\\data\\gitprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D1C6CCE-36FD-48C5-A898-08C2640701E7}|GitProject\\GitProject.csproj|solutionrelative:gitproject\\data\\gitprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1C6CCE-36FD-48C5-A898-08C2640701E7}|GitProject\\GitProject.csproj|c:\\users\\ara.soft\\source\\repos\\gitprojectsample\\gitproject\\gitproject\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D1C6CCE-36FD-48C5-A898-08C2640701E7}|GitProject\\GitProject.csproj|solutionrelative:gitproject\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1C6CCE-36FD-48C5-A898-08C2640701E7}|GitProject\\GitProject.csproj|c:\\users\\ara.soft\\source\\repos\\gitprojectsample\\gitproject\\gitproject\\models\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D1C6CCE-36FD-48C5-A898-08C2640701E7}|GitProject\\GitProject.csproj|solutionrelative:gitproject\\models\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251230083448_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Ara.soft\\source\\repos\\GitProjectSample\\GitProject\\GitProject\\Migrations\\20251230083448_InitialCreate.cs",
+              "RelativeDocumentMoniker": "GitProject\\Migrations\\20251230083448_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Ara.soft\\source\\repos\\GitProjectSample\\GitProject\\GitProject\\Migrations\\20251230083448_InitialCreate.cs",
+              "RelativeToolTip": "GitProject\\Migrations\\20251230083448_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T08:34:48.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ara.soft\\source\\repos\\GitProjectSample\\GitProject\\GitProject\\appsettings.json",
+              "RelativeDocumentMoniker": "GitProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ara.soft\\source\\repos\\GitProjectSample\\GitProject\\GitProject\\appsettings.json",
+              "RelativeToolTip": "GitProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-30T08:13:39.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GitProjectContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ara.soft\\source\\repos\\GitProjectSample\\GitProject\\GitProject\\Data\\GitProjectContext.cs",
+              "RelativeDocumentMoniker": "GitProject\\Data\\GitProjectContext.cs",
+              "ToolTip": "C:\\Users\\Ara.soft\\source\\repos\\GitProjectSample\\GitProject\\GitProject\\Data\\GitProjectContext.cs",
+              "RelativeToolTip": "GitProject\\Data\\GitProjectContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T08:13:35.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\Ara.soft\\source\\repos\\GitProjectSample\\GitProject\\GitProject\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "GitProject\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\Ara.soft\\source\\repos\\GitProjectSample\\GitProject\\GitProject\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "GitProject\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T08:12:26.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Members.cs",
+              "DocumentMoniker": "C:\\Users\\Ara.soft\\source\\repos\\GitProjectSample\\GitProject\\GitProject\\Models\\Members.cs",
+              "RelativeDocumentMoniker": "GitProject\\Models\\Members.cs",
+              "ToolTip": "C:\\Users\\Ara.soft\\source\\repos\\GitProjectSample\\GitProject\\GitProject\\Models\\Members.cs",
+              "RelativeToolTip": "GitProject\\Models\\Members.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T08:04:38.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

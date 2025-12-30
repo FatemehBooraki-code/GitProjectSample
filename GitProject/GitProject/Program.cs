@@ -1,4 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using GitProject.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<GitProjectContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("GitProjectContext") ?? throw new InvalidOperationException("Connection string 'GitProjectContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
